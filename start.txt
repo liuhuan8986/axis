@@ -1,0 +1,4 @@
+cd D:\
+java -cp axis.jar org.apache.axis.utils.tcpmon
+
+ip地址要填写服务器的地址
